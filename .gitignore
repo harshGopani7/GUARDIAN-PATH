@@ -1,0 +1,32 @@
+# Python virtual environment & cache
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large model weights (keep directory or download via setup script)
+Backend/models/*.pt
+Backend/models/*.pth
+!Backend/models/.gitkeep
+
+# Outputs & runtime artifacts
+Backend/outputs/
+
+# Frontend dependencies & build output
+node_modules/
+Website/node_modules/
+dist/
+Website/dist/
+
+# Environment files
+.env
+.env*.local
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

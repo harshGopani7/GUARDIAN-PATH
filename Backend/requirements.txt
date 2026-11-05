@@ -1,0 +1,26 @@
+# GUARDIAN PATH Backend Requirements
+
+# Core Deep Learning & Computer Vision
+torch
+torchvision
+ultralytics
+opencv-python
+torchreid
+
+# Scientific Computing & Math
+numpy
+scipy
+pyyaml
+
+# TorchReID Dependencies
+gdown
+tensorboard
+tabulate
+h5py
+
+# Web & Utilities
+Flask
+
+# Optional / Feature Integrations
+mediapipe
+pywhatkit

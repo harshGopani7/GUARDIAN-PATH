@@ -1,7 +1,7 @@
-# S.C.O.P.E.
+# GUARDIAN PATH
 ## Smart Cross-camera Observation and Person Evaluation
 
-S.C.O.P.E. is an AI-based multi-camera surveillance and monitoring system designed for real-time person detection, tracking, cross-camera re-identification, and intelligent alert generation.
+GUARDIAN PATH is an AI-based multi-camera surveillance and monitoring system designed for real-time person detection, tracking, cross-camera re-identification, and intelligent alert generation.
 
 The project focuses on transforming traditional CCTV systems from passive recording tools into intelligent real-time surveillance systems capable of assisting security personnel proactively.
 
@@ -193,8 +193,8 @@ O(max(T, D)^3)
 ## Clone Repository
 
 ```bash
-git clone https://github.com/248Vansh/SCOPE.git
-cd SCOPE
+git clone https://github.com/248Vansh/GUARDIAN-PATH.git
+cd GUARDIAN-PATH
 ```
 
 ---
@@ -326,7 +326,7 @@ While cameras captured footage, there was:
 - No automated tracking
 - No intelligent event correlation
 
-S.C.O.P.E. was developed to bridge this gap by enabling intelligent, real-time surveillance capable of assisting security personnel proactively rather than reactively.
+GUARDIAN PATH was developed to bridge this gap by enabling intelligent, real-time surveillance capable of assisting security personnel proactively rather than reactively.
 
 ---
 
